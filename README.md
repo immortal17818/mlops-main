@@ -1,7 +1,7 @@
 create env 
 
 ```bash
-conda create -n wineq python=3.7 -y
+conda create -n wineq python=3.8 -y
 ```
 
 activate env
